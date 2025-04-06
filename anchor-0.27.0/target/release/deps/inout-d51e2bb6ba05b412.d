@@ -1,0 +1,11 @@
+/mnt/c/Users/fifat/OneDrive/デスクトップ/solana-PRO/solana/anchor-0.27.0/target/release/deps/libinout-d51e2bb6ba05b412.rmeta: /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/lib.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/errors.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/inout.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/inout_buf.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/reserved.rs
+
+/mnt/c/Users/fifat/OneDrive/デスクトップ/solana-PRO/solana/anchor-0.27.0/target/release/deps/libinout-d51e2bb6ba05b412.rlib: /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/lib.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/errors.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/inout.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/inout_buf.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/reserved.rs
+
+/mnt/c/Users/fifat/OneDrive/デスクトップ/solana-PRO/solana/anchor-0.27.0/target/release/deps/inout-d51e2bb6ba05b412.d: /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/lib.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/errors.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/inout.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/inout_buf.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/reserved.rs
+
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/lib.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/errors.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/inout.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/inout_buf.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/inout-0.1.3/src/reserved.rs:

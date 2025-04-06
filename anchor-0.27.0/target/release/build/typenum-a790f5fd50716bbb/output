@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/mnt/c/Users/fifat/OneDrive/デスクトップ/solana-PRO/solana/anchor-0.27.0/target/release/build/typenum-a790f5fd50716bbb/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/mnt/c/Users/fifat/OneDrive/デスクトップ/solana-PRO/solana/anchor-0.27.0/target/release/build/typenum-a790f5fd50716bbb/out/op.rs

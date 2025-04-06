@@ -1,0 +1,10 @@
+/mnt/c/Users/fifat/OneDrive/デスクトップ/solana-PRO/solana/anchor-0.27.0/target/release/deps/libversion_check-7187c3b77b98f9cb.rmeta: /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/version_check-0.9.4/src/lib.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/version_check-0.9.4/src/version.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/version_check-0.9.4/src/channel.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/version_check-0.9.4/src/date.rs
+
+/mnt/c/Users/fifat/OneDrive/デスクトップ/solana-PRO/solana/anchor-0.27.0/target/release/deps/libversion_check-7187c3b77b98f9cb.rlib: /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/version_check-0.9.4/src/lib.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/version_check-0.9.4/src/version.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/version_check-0.9.4/src/channel.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/version_check-0.9.4/src/date.rs
+
+/mnt/c/Users/fifat/OneDrive/デスクトップ/solana-PRO/solana/anchor-0.27.0/target/release/deps/version_check-7187c3b77b98f9cb.d: /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/version_check-0.9.4/src/lib.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/version_check-0.9.4/src/version.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/version_check-0.9.4/src/channel.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/version_check-0.9.4/src/date.rs
+
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/version_check-0.9.4/src/lib.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/version_check-0.9.4/src/version.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/version_check-0.9.4/src/channel.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/version_check-0.9.4/src/date.rs:

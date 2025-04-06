@@ -1,0 +1,11 @@
+/mnt/c/Users/fifat/OneDrive/デスクトップ/solana-PRO/solana/anchor-0.27.0/target/release/deps/libserde_bytes-ac4904ccbad2aff7.rmeta: /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/lib.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/bytes.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/de.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/ser.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/bytebuf.rs
+
+/mnt/c/Users/fifat/OneDrive/デスクトップ/solana-PRO/solana/anchor-0.27.0/target/release/deps/libserde_bytes-ac4904ccbad2aff7.rlib: /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/lib.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/bytes.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/de.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/ser.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/bytebuf.rs
+
+/mnt/c/Users/fifat/OneDrive/デスクトップ/solana-PRO/solana/anchor-0.27.0/target/release/deps/serde_bytes-ac4904ccbad2aff7.d: /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/lib.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/bytes.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/de.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/ser.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/bytebuf.rs
+
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/lib.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/bytes.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/de.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/ser.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/serde_bytes-0.11.7/src/bytebuf.rs:

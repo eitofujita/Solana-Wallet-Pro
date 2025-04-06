@@ -1,0 +1,26 @@
+[programs.devnet]
+solana_wallet = "BAcey82mcE8dZDbRuXFL7KKKnSyFSLb13DUSPQfp86gS"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[workspace]
+members = ["programs/solana_wallet"]
+
+[scripts]
+test = "mocha -t 1000000 tests/"
+
+[programs.localnet]
+solana_wallet = "BAcey82mcE8dZDbRuXFL7KKKnSyFSLb13DUSPQfp86gS"
+
+[idl]
+out_dir = "target/idl/"
+
+[toolchain]
+anchor_version = "0.31.0"
+
+[build]
+target = "sbf"
+
+

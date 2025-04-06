@@ -1,0 +1,10 @@
+/mnt/c/Users/fifat/OneDrive/デスクトップ/solana-PRO/solana/anchor-0.27.0/target/release/deps/libasync_trait-7f122a8154f98612.so: /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/async-trait-0.1.58/src/lib.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/async-trait-0.1.58/src/args.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/async-trait-0.1.58/src/expand.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/async-trait-0.1.58/src/lifetime.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/async-trait-0.1.58/src/parse.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/async-trait-0.1.58/src/receiver.rs
+
+/mnt/c/Users/fifat/OneDrive/デスクトップ/solana-PRO/solana/anchor-0.27.0/target/release/deps/async_trait-7f122a8154f98612.d: /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/async-trait-0.1.58/src/lib.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/async-trait-0.1.58/src/args.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/async-trait-0.1.58/src/expand.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/async-trait-0.1.58/src/lifetime.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/async-trait-0.1.58/src/parse.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/async-trait-0.1.58/src/receiver.rs
+
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/async-trait-0.1.58/src/lib.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/async-trait-0.1.58/src/args.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/async-trait-0.1.58/src/expand.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/async-trait-0.1.58/src/lifetime.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/async-trait-0.1.58/src/parse.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/async-trait-0.1.58/src/receiver.rs:

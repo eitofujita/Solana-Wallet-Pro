@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "programs/solana_wallet"
+]
+[profile.release]
+overflow-checks = true

@@ -1,0 +1,11 @@
+/mnt/c/Users/fifat/OneDrive/デスクトップ/solana-PRO/solana/anchor-0.27.0/target/release/deps/libascii-5bc85b080342edda.rmeta: /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/lib.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/ascii_char.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/ascii_str.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/ascii_string.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/free_functions.rs
+
+/mnt/c/Users/fifat/OneDrive/デスクトップ/solana-PRO/solana/anchor-0.27.0/target/release/deps/libascii-5bc85b080342edda.rlib: /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/lib.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/ascii_char.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/ascii_str.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/ascii_string.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/free_functions.rs
+
+/mnt/c/Users/fifat/OneDrive/デスクトップ/solana-PRO/solana/anchor-0.27.0/target/release/deps/ascii-5bc85b080342edda.d: /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/lib.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/ascii_char.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/ascii_str.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/ascii_string.rs /home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/free_functions.rs
+
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/lib.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/ascii_char.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/ascii_str.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/ascii_string.rs:
+/home/eito/.cargo/registry/src/mirrors.ustc.edu.cn-5857e57f01837ef8/ascii-0.9.3/src/free_functions.rs:
