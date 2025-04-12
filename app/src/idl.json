@@ -1,0 +1,31 @@
+{
+  "address": "BAcey82mcE8dZDbRuXFL7KKKnSyFSLb13DUSPQfp86gS",
+  "metadata": {
+    "name": "solana_wallet",
+    "version": "0.1.0",
+    "spec": "0.1.0"
+  },
+  "instructions": [
+    {
+      "name": "hello_world",
+      "discriminator": [
+        11,
+        235,
+        52,
+        244,
+        76,
+        66,
+        25,
+        71
+      ],
+      "accounts": [
+        {
+          "name": "signer",
+          "writable": true,
+          "signer": true
+        }
+      ],
+      "args": []
+    }
+  ]
+}
